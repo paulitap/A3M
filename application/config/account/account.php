@@ -80,6 +80,7 @@ $config['third_party_auth'] = array(
 
         "Twitter" => array (
                 "enabled" => FALSE,
+                "includeEmail" => TRUE,
                 "keys"    => array ( "key" => "", "secret" => "" )
         ),
 
